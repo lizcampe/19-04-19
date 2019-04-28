@@ -16,7 +16,7 @@
 	margin-right: auto;
 	border: 1px solid black;
     border-radius: 5px;
-    font-family: Verdana;
+    font-family: monospace;
 	
 }
 
@@ -35,13 +35,14 @@ h1 {
 	width: 850px;
 	margin-left: auto;
 	margin-right: auto;
+	font-family: sans-serif;
 	
 
 }
 
 #uno {
 	padding: 5px;
-	font-family: Verdana, sans-serif;
+	font-family: sans-serif;
 	font-size: 14px;
 	text-align: center;
 	color: #ffffff;
@@ -50,10 +51,10 @@ h1 {
 
 #educacion {
 
-	border: 1px solid black;
+	border: 3px solid black;
     border-radius: 5px;
     padding: 1px;
-    font-family: Verdana, sans-serif;
+    font-family: sans-serif;
 	font-size: 14px;
 	text-align: center;
 	color: black;
@@ -67,17 +68,22 @@ a {
 .fondito2 { 
 	background-color: #BACACD;
 	width: 450px;
-	height: 180px; 
+	height: 200px; 
 	margin-left: auto;
 	margin-right: auto;
 	border: 1px solid black;
     border-radius: 5px;
     padding: 1px;
-    font-family: Verdana, sans-serif;
-	font-size: 14px;
-	text-align: center;
+    font-family: sans-serif;
+	font-size: 12px;
+	text-align: auto;
 	color: #ffffff;
 
 	
 }
+
+
+
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
 
